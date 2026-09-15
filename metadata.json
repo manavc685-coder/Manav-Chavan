@@ -1,0 +1,6 @@
+{
+  "name": "ABHTRIX",
+  "description": "Cinematic movie and web-series streaming app featuring trending releases, watchlist management, instant search, detailed overviews, and an interactive video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
